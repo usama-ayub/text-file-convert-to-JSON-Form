@@ -1,0 +1,25 @@
+{
+  "name": "fileread",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "morgan": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usama-ayub/text-file-convert-to-JSON-Form.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usama-ayub/text-file-convert-to-JSON-Form/issues"
+  },
+  "homepage": "https://github.com/usama-ayub/text-file-convert-to-JSON-Form#readme"
+}
