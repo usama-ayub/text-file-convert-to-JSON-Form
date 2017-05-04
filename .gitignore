@@ -2,7 +2,7 @@
 # http://git-scm.com/docs/gitignore
 
 .idea
+.git
 node_modules/
 platforms/
 plugins/
-.git
